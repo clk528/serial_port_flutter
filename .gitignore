@@ -8,6 +8,7 @@ build/
 
 # Android
 android/.project
+android/.idea
 android/.classpath
 android/**/.settings/
 
@@ -22,3 +23,4 @@ example/android/app/**/.settings/
 
 # Visual Studio Code
 .vscode/
+.idea/
