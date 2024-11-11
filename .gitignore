@@ -25,3 +25,4 @@ example/android/app/**/.settings/
 # Visual Studio Code
 .vscode/
 .idea/
+property*/
